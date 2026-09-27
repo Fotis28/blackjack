@@ -58,3 +58,11 @@ the build fails with "use option -std=c99 ... to compile your code".
 First-year university project, written in C.
 
 - **[Fotis Singiridis](https://github.com/Fotis28)**
+
+## License
+
+Copyright (c) 2026 Fotis Singiridis. All rights reserved.
+
+This code is published for portfolio purposes: you are welcome to read it and run it locally,
+but it may not be reused, redistributed or used commercially without permission.
+See [LICENSE](LICENSE).
